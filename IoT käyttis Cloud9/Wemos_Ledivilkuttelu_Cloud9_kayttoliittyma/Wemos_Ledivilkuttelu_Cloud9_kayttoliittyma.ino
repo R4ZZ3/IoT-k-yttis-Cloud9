@@ -10,10 +10,10 @@ int led2 = D2; //Boardin D4
 int led3 = D3; //Boardin D8
 int led4 = D4; //Boardin D9
 
-const char* ssid = "NETGEAR61";
-const char* password = "R4zz3li@NetGear92!";
-const char* ssid1 = "rt";
-const char* password1 = "R4ZZ392!";
+const char* ssid = "insert SSID Here";
+const char* password = "Insert password here!";
+const char* ssid1 = "insert SSID Here";
+const char* password1 = "Insert password here!";
 
 
 void setup()
