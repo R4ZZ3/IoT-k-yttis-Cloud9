@@ -1,0 +1,53 @@
+body {
+  background-image: url("https://i.stack.imgur.com/JICXS.jpg");
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: black;
+}
+
+    
+    #header{
+    height:50px;
+    background:#F0F0F0;
+    border:2px solid #CCC;
+    width:1200px;
+    margin:20px;
+    }
+    
+
+    
+    #footer {
+  clear: both;
+  border: solid 2px #888888;
+  padding: 5px;
+  background-color: blue;
+    }
+    
+  table, td, tr, th{
+  border: solid black 3px;
+  border-collapse: collapse;
+  background-color: #90EE90;
+  
+  }
+  
+  th{
+  column-span: all;
+  text-align: center;
+  height: 30px;
+  }
+  
+  table{
+    margin-top: 100px;
+    width: 100%;
+    background-color: #90EE90;
+  }
+  i.material-icons{
+    cursor: pointer;
+  }
+  #slider1{
+    cursor: pointer;
+  }
+  
+  
+    
